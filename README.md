@@ -57,6 +57,8 @@ The platform aims to shift the podcast industry from an attention-based economy 
 **Network**: Stacks Mainnet
 **Contract Name**: podcast-monetization-hub
 **Contract Address**: 'ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0.PodcastMonetizationHub'
+<img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/1bfb902c-981e-4ae5-a21b-0489c659bd2d" />
+
 
 **Testnet Information**:
 - **Network**: Stacks Testnet
@@ -79,4 +81,4 @@ The platform aims to shift the podcast industry from an attention-based economy 
 - Token rewards are distributed at 1:1 ratio for contributions, 2:1 for sponsor matches
 - Smart contract is fully audited and tested on Stacks testnet
 
-For the most up-to-date contract information and deployment status, please check our official documentation and GitHub repository.
+
