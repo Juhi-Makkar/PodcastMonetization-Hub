@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: PodcastMonetizationHub
+            expected-sender: ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0
+            cost: 61000
+            path: "contracts\\PodcastMonetizationHub.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
