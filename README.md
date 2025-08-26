@@ -56,17 +56,17 @@ The platform aims to shift the podcast industry from an attention-based economy 
 
 **Network**: Stacks Mainnet
 **Contract Name**: podcast-monetization-hub
-**Contract Address**: 'ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0.PodcastMonetizationHub'
+**Contract Address**: ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0.PodcastMonetizationHub
 <img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/1bfb902c-981e-4ae5-a21b-0489c659bd2d" />
 
 
 **Testnet Information**:
 - **Network**: Stacks Testnet
-- **Contract Address**: 'ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0.PodcastMonetizationHub'
+- **Contract Address**: ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0.PodcastMonetizationHub
 
 **Deployment Information**:
-- **Deployer Address**: 'ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0'
-- **Deployment Transaction**: '0x160fd3ea4b8537dca18c619b7ea8a7ecbfeda614273a995e9276c4e98a27a708'
+- **Deployer Address**: ST3V0WAWTFYVFNRV3FV0WJ2HV1E080Q68478061X0
+- **Deployment Transaction**: 0x160fd3ea4b8537dca18c619b7ea8a7ecbfeda614273a995e9276c4e98a27a708
 - **Block Height**: 10:23:38 AM 8/26/2025
 
 **Token Information**:
